@@ -30,3 +30,8 @@ This project was created as part of our 3rd semester Introduction to Data Scienc
 * Hypothesis testing -  
   H0: The difference between mean of sample mass and population mass mass is a statistical fluctuation.   
   H1: The difference between mean of sample mass and population mass mass is significatn and not a mere case of statistical fluctuation.   
+
+### Team
+* [Shubham Gupta](https://github.com/IamShubhamGupto)
+* [Sindhu Rao](https://github.com/sindhurao385)
+* Sinduja Mullangi
